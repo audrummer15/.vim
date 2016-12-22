@@ -88,3 +88,6 @@
 [submodule "bundle/nerdtree-hg-plugin"]
 	path = bundle/nerdtree-hg-plugin
 	url = https://github.com/f4t-t0ny/nerdtree-hg-plugin
+[submodule "bundle/typescript-vim"]
+	path = bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
