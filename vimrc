@@ -323,6 +323,10 @@ au BufNewFile,BufRead *.yml,*.yaml setlocal expandtab ts=2 sw=2
 au BufNewFile,BufRead *.cpp setlocal expandtab ts=2 sw=2
 au BufNewFile,BufRead *.hpp setlocal expandtab ts=2 sw=2
 au BufNewFile,BufRead *.json setlocal expandtab ts=2 sw=2
+au BufNewFile,BufRead *.js setlocal expandtab ts=2 sw=2
+au BufNewFile,BufRead *.ts setlocal expandtab ts=2 sw=2
+au BufNewFile,BufRead *.html setlocal expandtab ts=2 sw=2
+au BufNewFile,BufRead *.css setlocal expandtab ts=2 sw=2
 
 augroup filetypedetect
   au BufNewFile,BufRead .tmux.conf*,tmux.conf* setf tmux
